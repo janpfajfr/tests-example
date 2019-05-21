@@ -1,0 +1,5 @@
+{
+    "stopOnFirstFail": false,
+    "src": ["tests/**/*.js"]
+  }
+  
